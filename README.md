@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on myself RTS-game (powered by Unity Engine)<br>🤝 At now I'm work in BG Games Studio: C# / Unity developer.<br>🌱 I’m currently learning in university (third years).
+🤝 At now I'm work in BG Games Studio: C# / Unity developer.<br>🌱 I’m currently learning in university (third years).
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/c63291d4) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/alex-reef)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexander._.khomenko) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-khomenko-0050a7220/) 
 
