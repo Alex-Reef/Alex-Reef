@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 At now I'm work in BG Games Studio: C# / Unity developer.<br>🌱 I’m currently learning in university (third years).
+🤝 At now I'm work in Next Level Apps: C# / Unity developer.<br>🌱 I’m currently learning in university (4 years).
 
 
 ## 🌐 Socials:
