@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>📌21 y.o., Kyiv (Ukraine)
+📌21 y.o., Kyiv (Ukraine)
 <br>🤝 More then 1 year in Game Development.
 <br>⚙️ I have experience with Lua (Cheats, Mods, Servers for GTA:SA Multiplayer) and C# (Unity Engine, WPF).
 
