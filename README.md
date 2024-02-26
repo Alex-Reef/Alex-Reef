@@ -1,7 +1,7 @@
 # 💫 About Me:
-📌21 y.o., Kyiv (Ukraine)
-🤝 More then 1 year in Game Development.
-⚙️ I have experience with Lua (Cheats, Mods, Servers for GTA:SA Multiplayer) and C# (Unity Engine, WPF).
+<br>📌21 y.o., Kyiv (Ukraine)
+<br>🤝 More then 1 year in Game Development.
+<br>⚙️ I have experience with Lua (Cheats, Mods, Servers for GTA:SA Multiplayer) and C# (Unity Engine, WPF).
 
 ## 🌐 Socials:
 [![Linkdin](https://img.shields.io/badge/Linkedin-1769ff?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-reef/)
