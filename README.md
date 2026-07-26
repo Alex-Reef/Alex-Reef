@@ -1,7 +1,7 @@
 # 💫 About Me
 📌23 y.o., from Ukraine. Currently in Batumi, Georgia.
-<br>🤝 Middle .NET FullStack Developer (3 years).
-<br>⚙️ JS/TS, SCSS, WPF/MVC, DevExpress, MS SQL/PostgreSQL, Protobuf.
+<br>🤝 .NET FullStack Developer (5 years).
+<br>⚙️ JS/TS, SCSS, WPF/MVC, DevExpress, MS SQL/PostgreSQL, Protobuf, RabbitMQ, Docker, Git.
 
 ## 🌐 Socials:
 [![Linkdin](https://img.shields.io/badge/Linkedin-1769ff?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-reef/)
